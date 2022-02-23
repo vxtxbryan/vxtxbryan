@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @vxtxbryan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ ## 👋 Oiii, eu sou o Victor!
 
-<!---
-vxtxbryan/vxtxbryan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 Participando do Bootcamp Generation FullStack Java
+- 🎯 Estudando Java 
+- 💻 Futuro Desenvolvedor Web Full Stack.
