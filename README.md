@@ -1,8 +1,20 @@
+ ![céu](https://imgur.com/JpYkamp.png)
+
+<h1 align="center">🌠 Bem-vindo ao meu GitHub! 🌠</h1>
+
+---
+
+<img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
+ 
+ 
+ 
  ## 👋 Oiii, eu sou o Victor!
 
-- 🌱 Participando do Bootcamp Generation FullStack Java
-- 🎯 Estudando Java 
-- 💻 Futuro Desenvolvedor Web Full Stack.
+- 💻 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java 
+- 📚 Participando do Bootcamp da Generation Brasil.
+- ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
+
+
 
 
   <div align="center">
