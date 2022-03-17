@@ -7,9 +7,6 @@
 <img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
  
  
- 
- ## 👋 Oiii, eu sou o Victor!
-
 - 💻 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java 
 - 📚 Participando do Bootcamp da Generation Brasil.
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito
