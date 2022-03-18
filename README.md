@@ -31,6 +31,7 @@
    <img align="center" alt="AngularJS" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
    <img align="center" alt="JavaScript" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="BootStrap" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
+   <img align="center" alt="MySQL" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
  </div>
  
   
