@@ -7,8 +7,8 @@
 <img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
  
  
-- 💻 Estudante de Desenvolvimento Web Full Stack Jr. em Linguagem Java.
-- 📚 Formado no Bootcamp da Generation Brasil.
+- 💻 Estudante de Desenvolvimento de sites e sistemas.
+- 📚 Formado no Bootcamp da Generation Brasil em Desenvolvimento Web Full Stack Java.
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito.
 
 ---
