@@ -2,10 +2,7 @@
 
 <h1 align="center">🌠 Bem-vindo ao meu GitHub! 🤩🌠</h1>
 
----
-
-<img align='right' src="https://imgur.com/GWqNzEx.gif" width="150" height="140">
- 
+--- 
  
 - 💻 Estudante de Desenvolvimento de sites e sistemas.
 - 📚 Formado no Bootcamp da Generation Brasil em Desenvolvimento Web Full Stack Java.
