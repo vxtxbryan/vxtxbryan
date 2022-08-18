@@ -4,7 +4,7 @@
 
 --- 
  
-- 💻 Estudante de Desenvolvimento de sites e sistemas.
+- 💻 Cursando Análise e Desenvolvimento de sistemas. (1/6)
 - 📚 Formado no Bootcamp da Generation Brasil em Desenvolvimento Web Full Stack Java.
 - ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito.
 
