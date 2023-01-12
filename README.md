@@ -25,13 +25,13 @@
    <div style="display: inline_block"  align="center"><br>
    <img align="center" alt="Java" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
    <img align="center" alt="CSS3" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
-   <img align="center" alt="AngularJS" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-plain.svg">
+   <img align="center" alt="Html5" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
+   <img align="center" alt="React" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg">
    <img align="center" alt="Spring" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg">
    <img align="center" alt="JavaScript" height="70" width="80" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
    <img align="center" alt="BootStrap" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg">
    <img align="center" alt="MySQL" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
    <img align="center" alt="TypeScript" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
-   <img align="center" alt="Html5" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
  </div>
  
   
