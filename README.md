@@ -1,12 +1,12 @@
  ![céu](https://imgur.com/JpYkamp.png)
 
-<h1 align="center">🌠 Bem-vindo ao meu GitHub! 🤩🌠</h1>
+<h1 align="center">🌠 Welcome to my GitHub! 🤩🌠</h1>
 
 --- 
  
-- 💻 Cursando Análise e Desenvolvimento de sistemas. (2/5)
-- 📚 Formado no Bootcamp da Generation Brasil em Desenvolvimento Web Full Stack Java.
-- ♾️ Sempre me desenvolvendo até alcançar o mais próximo ao infinito.
+- 💻 Studying Systems Analysis and Development. (2/5)
+- 📚 Graduated in Generation Brasil's Bootcamp in Full Stack Java Web Development.
+- ♾️ Always developing myself until reaching the closest to infinity.
 
 ---
 
