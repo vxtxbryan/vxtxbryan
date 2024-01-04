@@ -4,9 +4,9 @@
 
 --- 
  
-- 💻 Studying Systems Analysis and Development. (3/5)
-- 📚 Graduated in Generation Brasil's Bootcamp in Full Stack Java Web Development.
-- ♾️ Always developing myself until reaching the closest to infinity.
+- 💻 Cursando Análise e Desenvolvimento de Sistemas. (3/5)
+- 📚 Formado no Bootcamp da Generation Brasil em Full Stack Java Web.
+- ♾️ Sempre me desenvolvendo até chegar ao mais próximo do infinito.
 
 ---
 
