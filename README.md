@@ -4,8 +4,9 @@
 
 --- 
  
-- 💻 Cursando Análise e Desenvolvimento de Sistemas. (4/5)
+- 💻 Formado em Análise e Desenvolvimento de Sistemas.
 - 📚 Formado no Bootcamp da Generation Brasil em Full Stack Java Web.
+- ☁️ Analista de Infraestrutura Cloud 
 - ♾️ Sempre me desenvolvendo até chegar ao mais próximo do infinito.
 
 ---
