@@ -25,7 +25,7 @@
      
  </div>
    <div style="display: inline_block"  align="center"><br>
-   <img align="center" alt="AWS" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg">
+   <img align="center" alt="AWS" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
    <img align="center" alt="CSS3" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
    <img align="center" alt="Html5" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
    <img align="center" alt="Docker" height="70" width="80" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg">
