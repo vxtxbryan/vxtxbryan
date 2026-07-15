@@ -5,4 +5,4 @@
 <p> ☁️ 1x AWS Certified </p>
 <hr>
 
- [![My Skills](https://skillicons.dev/icons?i=aws,mysql,docker,linux,nginx,git,java,nodejs,postman)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=aws,mysql,docker,terraform,linux,nginx,git,java,nodejs,postman)](https://skillicons.dev)
